@@ -71,10 +71,3 @@ The system requires Python 3.11 and the dependencies listed in `requirements.txt
 5. **Launch the Dashboard:**
    `streamlit run dashboard.py`
 
----
-
-## Acknowledgments
-
-* **TechElecon Private Limited:** For providing the internship opportunity and professional environment.
-* **Mr. Nilesh Prajapati (Company Mentor):** For technical insights and guidance throughout the project development.
-* **Prof. Sneh Vyas (Internal Guide):** For academic support and feedback during the project lifecycle.
