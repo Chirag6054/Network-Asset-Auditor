@@ -1,0 +1,6 @@
+psutil==5.9.8
+WMI==1.5.1
+pywin32==306
+streamlit==1.32.0
+pandas==2.2.1
+xlsxwriter==3.2.0

@@ -1,0 +1,12 @@
+# Ignore scan results
+scan_results_*.json
+*.xlsx
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Build folders
+build/
+dist/
+*.spec
